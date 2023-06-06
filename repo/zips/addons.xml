@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="repository,getlit" name="GetLit" version="1.0" provider-name="GetLit">
+<addons><addon id="repository.getlit" name="GetLit" version="1.0" provider-name="GetLit">
     <extension point="xbmc.addon.repository" name="GetLit Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/GetLitTV/repository.getlit/master/repo/zips/addons.xml</info>
